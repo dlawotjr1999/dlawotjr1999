@@ -35,10 +35,13 @@ dlawotjr1999@gmail.com
 ## Tool
 ![unity](https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black)
 ![unrealengine](https://img.shields.io/badge/unrealengine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)
-![webgpu](https://img.shields.io/badge/webgpu-005A9C.svg?&style=for-the-badge&logo=webgpu&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![webgpu](https://img.shields.io/badge/webgpu-005A9C.svg?&style=for-the-badge&logo=webgpu&logoColor=white)
 
 ## Interested
+- Game Development
+- Server Development
+- Cloud · Container Service
 
 ## Projects
 
@@ -49,7 +52,6 @@ dlawotjr1999@gmail.com
 - [Github](https://github.com/dlawotjr1999/ProjectOrpheus) & [영상](https://youtu.be/_wPpD9UryS0?si=nH-hmlhuIJV0_qqJ)
 - 캐주얼 로그라이크 게임
 - 2024 BIC 공모전 출품작
-- 각 방의 기믹을 클리어하면서 최종적으로 보스를 처치하는 플레이 방식
 - 담당 파트
     - 카메라 세팅과 인게임 UI(플레이어 상태창, 스킬 인벤토리, 보상창 등) 담당
     - 시스템과 플레이어의 스킬 구현
@@ -64,7 +66,6 @@ dlawotjr1999@gmail.com
 - [Github](https://github.com/dlawotjr1999/PracticeProject) & [영상](https://github.com/dlawotjr1999/ProjectOrpheus)
 - 3D 로그라이크 게임
 - 2024 GIGDC 공모전 출품작
-- 퀘스트를 클리어하면서 최종적으로 보스를 잡는 플레이 하는 방식
 - 담당 파트
     - 데이터 테이블 인게임 연동 및 아이템 관련 시스템 구현 담당
     - 인게임 UI 및 퀘스트 시스템 담당
@@ -87,8 +88,7 @@ dlawotjr1999@gmail.com
 
 - 앙상블 기법을 통한 서울시 공영주차장 입지선정을 위한 분석
 - Sklearn을 활용한 데이터 분석
-- 1차 분석 : 회귀 분석과 클러스터링을 활용
-- 2차 분석 : 앙상블 기법을 활용
+- 회귀 분석과 클러스터링으로 1차 분석 후 앙상블 기법을 활용하여 2차 분석 진행
 - 분석 후 여러 기사들과 자료들을 활용하여 교차검증 진행
 
 <br>
@@ -98,13 +98,10 @@ dlawotjr1999@gmail.com
 ### 미스터 대박 디너 서비스 (2022.10 ~ 2022.12)
 
 - 음성인식 서비스를 활용한 디너 서비스
-- 고객 인터페이스와 점주 인터페이스의 구분
 - GUI와 음성 인식 시스템을 활용한 주문 구현
-- 프론트엔드 : HTML, CSS, JavaScript
-- 백엔드 : Spring, MySQL, AWS EC2
 - 담당 파트
     - 포토샵과 피그마를 활용하여 웹페이지의 디자인 담당
-    - HTML과 CSS를 활용한 웹페이지의 구현
+    - HTML과 CSS를 활용한 웹페이지의 실제 구현
     - js를 활용한 백엔드 데이터와의 통신 구현
 
 <br>
