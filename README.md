@@ -2,7 +2,7 @@
 
 **🎂 Birth**
 
-*1999.09.09*
+1999.09.09
 
 **📞 Phone**
 
@@ -14,8 +14,11 @@ dlawotjr1999@gmail.com
 
 🐱 **Github**
 
-*github.com/dlawotjr1999*
+https://github.com/dlawotjr1999
 
+📘 **Notion(Tech Learning)**
+
+https://swamp-scaffold-bfd.notion.site/b0b4a9ee9750441f8d62cc94afe187e3?source=copy_link
 
 ## Career
 - 충주대원고등학교 졸업(2015 .03 ~ 2018.02)
@@ -38,7 +41,7 @@ dlawotjr1999@gmail.com
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![webgpu](https://img.shields.io/badge/webgpu-005A9C.svg?&style=for-the-badge&logo=webgpu&logoColor=white)
 
-## Interested
+## Most Interested
 - Game Development
 - Server Development
 - Cloud · Container Service
