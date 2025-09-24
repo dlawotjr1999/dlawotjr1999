@@ -52,7 +52,7 @@ https://swamp-scaffold-bfd.notion.site/b0b4a9ee9750441f8d62cc94afe187e3?source=c
 
 ### 본격! 우당탕탕(2023.09 ~ 2023.12)
 
-- [Github](https://github.com/dlawotjr1999/ProjectOrpheus) & [영상](https://youtu.be/_wPpD9UryS0?si=nH-hmlhuIJV0_qqJ)
+- [Github](https://github.com/dlawotjr1999/PracticeProject) & [영상](https://youtu.be/_wPpD9UryS0?si=nH-hmlhuIJV0_qqJ)
 - 캐주얼 로그라이크 게임
 - 2024 BIC 공모전 출품작
 - 담당 파트
@@ -66,7 +66,7 @@ https://swamp-scaffold-bfd.notion.site/b0b4a9ee9750441f8d62cc94afe187e3?source=c
 
 ### Project Orpheus(2024.02 ~ 2024.07)
 
-- [Github](https://github.com/dlawotjr1999/PracticeProject) & [영상](https://github.com/dlawotjr1999/ProjectOrpheus)
+- [Github](https://github.com/dlawotjr1999/ProjectOrpheus) & [영상](https://www.youtube.com/watch?v=auBd6zEksRw)
 - 3D 로그라이크 게임
 - 2024 GIGDC 공모전 출품작
 - 담당 파트
