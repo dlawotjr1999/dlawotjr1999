@@ -20,6 +20,10 @@ https://github.com/dlawotjr1999
 
 https://swamp-scaffold-bfd.notion.site/b0b4a9ee9750441f8d62cc94afe187e3?source=copy_link
 
+📖 **Portfolio**
+
+https://drive.google.com/drive/folders/1zV1RC6aJ3CuYP9so0h0QUbdiNZ4qzE4y?usp=drive_link
+
 ## Career
 - 충주대원고등학교 졸업(2015 .03 ~ 2018.02)
 - 서울시립대학교 컴퓨터과학부 졸업(2018. 03 ~ 2025.02)
