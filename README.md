@@ -66,11 +66,15 @@ https://drive.google.com/drive/folders/1zV1RC6aJ3CuYP9so0h0QUbdiNZ4qzE4y?usp=dri
 ## Most Interested
 - Server Development
 - Cloud · Container Service
-- Game Development
+- Destributed System
+
+---
 
 ## Projects
 
 ### Allargando (2026.03 ~ 2026.10)
+
+<img width="541" height="479" alt="Image" src="https://github.com/user-attachments/assets/c3ea30a5-4df9-49d4-8226-c1f351cefee9" />
 
 - [Github](https://github.com/dlawotjr1999/Allargando)
 - 악기 취미생들을 위한 연주 모임 플랫폼 (React Native와 Spring Boot 기반의 취미생 앙상블 매칭 서비스)
@@ -86,7 +90,9 @@ https://drive.google.com/drive/folders/1zV1RC6aJ3CuYP9so0h0QUbdiNZ4qzE4y?usp=dri
     - HTTP 200으로 오류를 반환하는 KOPIS 응답을 XML 오류 코드로 판별하고 장르·페이지 단위로 실패 격리
     - Firebase·DB 장애를 인증 실패(401)와 구분해 503으로 응답, 일시 장애에 앱이 로그아웃되지 않도록 수정
 
-<br>
+---
+
+<img width="495" height="291" alt="Image" src="https://github.com/user-attachments/assets/411817b5-bffb-431c-93ce-238eeab84001" />
 
 ### Chat Server (2025.12 ~ 2026.08)
 
@@ -101,7 +107,7 @@ https://drive.google.com/drive/folders/1zV1RC6aJ3CuYP9so0h0QUbdiNZ4qzE4y?usp=dri
     - 300개 연결에서 세 버전의 전달 지연 비교 : 세션 재설계 전후 지연은 유사, Redis 도입 후 p99 증가(37.01ms → 101.73ms) 기록
     - TSan으로 경합을 수정하고 CI에 동시성 회귀 검사 추가
 
-<br>
+---
 
 <img width="308" height="430" alt="Image" src="https://github.com/user-attachments/assets/b5cde1ea-bb24-4015-bb34-23b292a998c8" />
 
@@ -116,7 +122,7 @@ https://drive.google.com/drive/folders/1zV1RC6aJ3CuYP9so0h0QUbdiNZ4qzE4y?usp=dri
     - 방 생성 및 Trigger 기반 전투 시스템 구현, Room 단위 NavMeshSurface·NavMeshLink로 런타임 맵의 이동 경로 구성
     - 전체 Room 활성화와 현재·인접 Room 활성화 방식의 부하를 비교해, 플레이 중 프레임 안정성을 우선한 전체 사전 활성화 채택
 
-<br>
+---
 
 <img width="308" height="413" alt="Image" src="https://github.com/user-attachments/assets/7dfc5053-6922-45fa-b4f9-57431e1c902d" />
 
@@ -132,7 +138,7 @@ https://drive.google.com/drive/folders/1zV1RC6aJ3CuYP9so0h0QUbdiNZ4qzE4y?usp=dri
     - NPC 상호작용, 퀘스트 상태 흐름 및 인벤토리·도감·미니맵 UI 구현
     - 카메라(시네마틱) 시스템, 몬스터 및 오브젝트 기능 구현
 
-<br>
+---
 
 <img width="308" height="430" alt="Image" src="https://github.com/user-attachments/assets/d0fc1ba5-3fbd-4b1d-b3d1-753f17c03d9c" />
 
@@ -143,7 +149,7 @@ https://drive.google.com/drive/folders/1zV1RC6aJ3CuYP9so0h0QUbdiNZ4qzE4y?usp=dri
 - 회귀 분석과 클러스터링으로 1차 분석 후 앙상블 기법을 활용하여 2차 분석 진행
 - 분석 후 여러 기사들과 자료들을 활용하여 교차검증 진행
 
-<br>
+---
 
 ## Certification
 - 정보처리기사 (2025.12.24)
