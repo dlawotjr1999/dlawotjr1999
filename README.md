@@ -52,21 +52,16 @@ https://drive.google.com/drive/folders/1zV1RC6aJ3CuYP9so0h0QUbdiNZ4qzE4y?usp=dri
 ## System & Network
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 ![posixsocket](https://img.shields.io/badge/posix_socket-333333.svg?&style=for-the-badge)
-![epoll](https://img.shields.io/badge/epoll-333333.svg?&style=for-the-badge)
-![pthread](https://img.shields.io/badge/pthread-333333.svg?&style=for-the-badge)
 
 ## Infra & DevOps
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![redis](https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![githubactions](https://img.shields.io/badge/github_actions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
-![prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
-![grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)
 
 ## Client & Engine
+![reactnative](https://img.shields.io/badge/react_native-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB)
 ![unity](https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black)
 ![unrealengine](https://img.shields.io/badge/unrealengine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)
-![reactnative](https://img.shields.io/badge/react_native-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Most Interested
 - Server Development
@@ -139,20 +134,6 @@ https://drive.google.com/drive/folders/1zV1RC6aJ3CuYP9so0h0QUbdiNZ4qzE4y?usp=dri
 
 <br>
 
-<img width="308" height="430" alt="Image" src="https://github.com/user-attachments/assets/9398c7ce-97f7-4f81-a99b-443f263b339f" />
-
-### 본격! 우당탕탕(2023.09 ~ 2023.12)
-
-- [Github](https://github.com/dlawotjr1999/PracticeProject) & [영상](https://youtu.be/_wPpD9UryS0?si=nH-hmlhuIJV0_qqJ)
-- 캐주얼 로그라이크 게임
-- 2024 BIC 공모전 출품작
-- 담당 파트
-    - 카메라 세팅과 인게임 UI(플레이어 상태창, 스킬 인벤토리, 보상창 등) 담당
-    - 시스템과 플레이어의 스킬 구현
-    - 사운드 담당 및 BGM 작곡
-
-<br>
-
 <img width="308" height="430" alt="Image" src="https://github.com/user-attachments/assets/d0fc1ba5-3fbd-4b1d-b3d1-753f17c03d9c" />
 
 ### 서울시 공영주차장 입지선정을 위한 분석 (2022.10 ~ 2023.12)
@@ -161,19 +142,6 @@ https://drive.google.com/drive/folders/1zV1RC6aJ3CuYP9so0h0QUbdiNZ4qzE4y?usp=dri
 - Sklearn을 활용한 데이터 분석
 - 회귀 분석과 클러스터링으로 1차 분석 후 앙상블 기법을 활용하여 2차 분석 진행
 - 분석 후 여러 기사들과 자료들을 활용하여 교차검증 진행
-
-<br>
-
-<img width="308" height="430" alt="Image" src="https://github.com/user-attachments/assets/baa35a50-38e1-4e71-8f5b-0af76cb73d3f" />
-
-### 미스터 대박 디너 서비스 (2022.10 ~ 2022.12)
-
-- 음성인식 서비스를 활용한 디너 서비스
-- GUI와 음성 인식 시스템을 활용한 주문 구현
-- 담당 파트
-    - 포토샵과 피그마를 활용하여 웹페이지의 디자인 담당
-    - HTML과 CSS를 활용한 웹페이지의 실제 구현
-    - js를 활용한 백엔드 데이터와의 통신 구현
 
 <br>
 
